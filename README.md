@@ -8,7 +8,7 @@
 </head>
 <body>
     <header>
-        <h1>Hello, I'm Anusha Rokhade 👋</h1>
+        <h1>Hello, I'm Shashank Shetgeri 👋</h1>
         <p>I am passionate about technology and problem-solving. Here's a glimpse of my work:</p>
     </header>
     <section>
@@ -24,8 +24,8 @@
         </ul>
         <h2>🌐 Find Me Online</h2>
         <ul>
-            <li><a href="https://www.linkedin.com/in/anusha-rokhade-400946284/">LinkedIn</a></li>
-            <li><a href="https://github.com/anusharokhade">GitHub</a></li>
+            <li><a href="https://www.linkedin.com/in/shashank-shetgeri-2434232b3/">LinkedIn</a></li>
+            <li><a href="https://github.com/ShashankShetgeri-6969">GitHub</a></li>
         </ul>
         <h2>Portfolio Topic</h2>
         <dl>
@@ -34,9 +34,9 @@
             <dt>Course Code</dt>
             <dd>24ECSC205</dd>
             <dt>Name</dt>
-            <dd>Anusha Rokhade</dd>
+            <dd>Shashank Shetgeri</dd>
             <dt>SRN</dt>
-            <dd>02FE24BCS406</dd>
+            <dd>02FE24BCS413</dd>
             <dt>Course Instructor</dt>
             <dd>Prof. Shankar Biradar</dd>
             <dt>University</dt>
