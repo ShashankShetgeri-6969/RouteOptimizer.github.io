@@ -1,50 +1,62 @@
-## Portfolio
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <h1>Hello, I'm Anusha Rokhade 👋</h1>
+        <p>I am passionate about technology and problem-solving. Here's a glimpse of my work:</p>
+    </header>
 
-### Hello, I'm [Your Name] 👋
+    <section>
+        <h2>🛠️ Projects</h2>
+        <ul>
+            <li><strong>Route Optimizer</strong>: The Route Optimizer problem aims to find the most efficient path or sequence of routes to visit a series of locations while considering constraints like distance, cost, time, and resources..</li>
+        </ul>
 
-I am passionate about technology and problem-solving. Here's a glimpse of my work:
+        <h2>🚀 Skills</h2>
+        <ul>
+            <li>C++, Python, JavaScript</li>
+            <li>Data Structures and Algorithms</li>
+            <li>Full Stack Web Development</li>
+        </ul>
 
-## 🛠️ Projects
-- **Project 1**: A short description of your project.
-- **Project 2**: A short description of another project.
+        <h2>🌐 Find Me Online</h2>
+        <ul>
+            <li><a href="https://www.linkedin.com/in/anusha-rokhade-400946284/">LinkedIn</a></li>
+            <li><a href="https://github.com/anusharokhade">GitHub</a></li>
+        </ul>
 
-## 🚀 Skills
-- C++, Python, JavaScript
-- Data Structures and Algorithms
-- Web Development (React.js, Node.js)
+        <h2>Portfolio Topic</h2>
+        <dl>
+            <dt>Course Name</dt>
+            <dd>Design and Analysis of Algorithms</dd>
 
-## 🌐 Find Me Online
-- [GitHub](https://github.com/your-github-username)
-- [LinkedIn](https://linkedin.com/in/your-linkedin-profile)
+            <dt>Course Code</dt>
+            <dd>24ECSC205</dd>
 
-## Portfolio Topic
+            <dt>Name</dt>
+            <dd>Anusha Rokhade</dd>
 
-![Project Screenshot](assets/image.jpg)
+            <dt>SRN</dt>
+            <dd>02FE24BCS406</dd>
 
-[Check out my Google](https://www.google.com/)<br>
-[Check out a sample Portfolio](https://jiyapalrecha35.github.io/Google.github.io/)<br>
-[Check out this repo](https://github.com/hiteshchoudhary/apihub)<br>
+            <dt>Course Instructor</dt>
+            <dd>Prof. Shankar Biradar</dd>
 
+            <dt>University</dt>
+            <dd>KLE Technological University, Belgaum</dd>
 
-[About Me](about.md)
+            <dt>Portfolio Topic/Domain</dt>
+            <dd>Route Optimizer</dd>
+        </dl>
 
-<dl>
-<dt>Course Name</dt>
-<dd>Algorithmic Problem Solving</dd>
-<dt>Course Code</dt>
-<dd>Course Code Placeholder</dd>
-<dt>Name</dt>
-<dd>Your Name</dd>
-<dt>SRN</dt>
-<dd>Your SRN</dd>
-<dt>Course Instructor</dt>
-<dd>Instructor Name Placeholder</dd>
-<dt>University</dt>
-<dd>Your University Name</dd>
-<dt>Portfolio Topic/Domain</dt>
-<dd>Google</dd>
-</dl>
-
-<br> 
-> “The only way to do great work is to love what you do.” – Steve Jobs
->
+        <blockquote>“The only way to do great work is to love what you do.” – Steve Jobs</blockquote>
+    </section>
+</body>
+</html>
